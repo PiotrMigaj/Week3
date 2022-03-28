@@ -25,4 +25,6 @@ public class FirstClass {
     public void setAge(int age) {
         this.age = age;
     }
+
+    //public abstract void myMethod();
 }

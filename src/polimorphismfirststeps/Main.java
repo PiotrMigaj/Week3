@@ -12,6 +12,9 @@ public class Main {
 
         System.out.println(secondClass.secondName);
 
+        //FirstClass firstClass1 = new FirstClass("Piortr",32);
+
+
 
     }
 
