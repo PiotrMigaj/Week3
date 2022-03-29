@@ -7,7 +7,7 @@ import java.util.regex.Matcher;
 public class Ex3Main {
     public static void main(String[] args) {
 
-        TreeSet<Integer> integerArrayList = Ex3Solution.integerArrayListMethod(7,5,12,13,1,4,6);
+        List<Integer> integerArrayList = Ex3Solution.integerArrayListMethod(7,5,12,13,1,4,6);
 
         System.out.println(integerArrayList);
     }
